@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Gordita-Black.otf",
+      "sha1": "21035af0f261c32846702297160e3de813498e0d"
+    },
+    {
+      "path": "src/assets/fonts/Gordita-Light.otf",
+      "sha1": "925365d3e65f14f74712706aa29286ef0a9e8274"
+    },
+    {
+      "path": "src/assets/fonts/Gordita-Medium.otf",
+      "sha1": "08ddd7a722c14476412a693c8e76254102db8fcd"
+    },
+    {
+      "path": "src/assets/fonts/Gordita-Regular.otf",
+      "sha1": "4180ceaaf5b38e3c554a33c3fee07a7b421e1b8c"
+    }
+  ]
+}
